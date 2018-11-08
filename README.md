@@ -12,8 +12,15 @@ hadoop fs -mkdir /user/cloudera/pagerank /user/cloudera/pagerank/input
 hdfs fs -put /home/cloudera/Downloads/simplewiki.xml /simplewiki
 ```
 - Compile the program of PageRank.java
+
+Create jar file using 
+```
+jar -cvf pagerank.jar -C build/ . 
+```
+or
 ```
 Create the jar file with name page rank.java using Eclipse
+
 ```
 - Run the program - 
 ```
