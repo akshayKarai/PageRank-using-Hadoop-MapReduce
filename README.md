@@ -1,6 +1,19 @@
 
 ## PageRank using Hadoop and MapReduce
 
+[For the PageRank algorithm check here] (http://infolab.stanford.edu/~backrub/google.html)
+
+Each page of Wikipedia is represented in XML as follows:
+```
+<title> Page_Name </title>
+(other fields we do not care about)
+<revision optionalAttr="val">
+  <text optionalAttr2="val2"> 
+    (Page body goes here)
+  </text>
+</revision>
+```
+
 #### Execution instructions - 
 
 - Make directory in Cloudera named pagerank -
