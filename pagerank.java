@@ -1,8 +1,6 @@
 /*
  * Name		: Akshay Karai
- * Email	: akarai@uncc.edu
- * UNCC ID	: 801038933
- * 
+ * Email	: akshaysan3238@gmail.com
  */
 package pagerank;
 
