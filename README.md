@@ -1,7 +1,7 @@
 
 ## PageRank using Hadoop and MapReduce
 
-Execution instructions - 
+#### Execution instructions - 
 
 - Make directory in Cloudera named pagerank -
 ```
