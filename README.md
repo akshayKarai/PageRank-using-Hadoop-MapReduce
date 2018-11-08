@@ -1,7 +1,7 @@
 
 ## PageRank using Hadoop and MapReduce
 
-[For the PageRank algorithm check here] (http://infolab.stanford.edu/~backrub/google.html)
+[For pageRank algorithm click here](http://infolab.stanford.edu/~backrub/google.html)
 
 Each page of Wikipedia is represented in XML as follows:
 ```
