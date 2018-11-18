@@ -52,4 +52,5 @@ head -100 output.out > output_100.out
 hadoop fs -rm -r /user/cloudera/pagerank/output 
 ```
 
-Cyber Duck can be used for transferring the files from local to cluster.
+Cyber Duck can be used for transferring the files from local to cluster in Mac
+Putty can be used for transferring the files from local to cluster in Windows
